@@ -116,7 +116,7 @@ contract TransactionWithMappingStruct {
 
 ---
 
-## Próximos passos
+## Idéias para o futuro
 
 * Adicionar funções para consultar histórico de transações por índice.
 * Criar interface web para facilitar visualização das movimentações.
